@@ -1,41 +1,81 @@
 export const upcomingEvents = [
+  // === Bi-Weekly GBody Meetings (Mondays) ===
   {
-    title: "St Patty's Day Tabling",
-    date: "March 18-21, 2025",
-    time: "12:00 PM - 9:00 PM",
-    location: "Various Check the Docs",
-    description: "Raising money for the club selling Cake Pops! Come out buy and sell some!",
+    title: "GBody #1",
+    date: "September 15, 2025",
+    time: "6:30 PM - 7:30 PM",
+    location: "Stimson Hall G01",
+    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    category: "Meeting",
+    link: "https://cglink.me/2ee/r2290301"
+  },
+  {
+    title: "GBody #2",
+    date: "September 29, 2025",
+    time: "6:30 PM - 7:30 PM",
+    location: "Stimson Hall G01",
+    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    category: "Meeting",
+    link: ""
+  },
+  {
+    title: "GBody #3",
+    date: "October 13, 2025",
+    time: "6:30 PM - 7:30 PM",
+    location: "Stimson Hall G01",
+    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    category: "Meeting",
+    link: ""
+  },
+  {
+    title: "GBody #4",
+    date: "October 27, 2025",
+    time: "6:30 PM - 7:30 PM",
+    location: "Stimson Hall G01",
+    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    category: "Meeting",
+    link: ""
+  },
+  {
+    title: "GBody #5",
+    date: "November 10, 2025",
+    time: "6:30 PM - 7:30 PM",
+    location: "Stimson Hall G01",
+    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    category: "Meeting",
+    link: ""
+  },
+  {
+    title: "GBody #6",
+    date: "November 24, 2025",
+    time: "6:30 PM - 7:30 PM",
+    location: "Stimson Hall G01",
+    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    category: "Meeting",
+    link: ""
+  },
+
+  // === Sophie Fund Cupcake Contest ===
+  {
+    title: "The Sophie Fund Cupcake Contest",
+    date: "September 15, 2025",
+    time: "10:00 AM - 4:00 PM",
+    location: "TBD",
+    description: "Support the annual Sophie Fund Cupcake Contest! Come enjoy, participate, or help volunteer!",
     category: "Fundraiser",
-    link: "https://docs.google.com/spreadsheets/d/18bEV0Mft3EYlpyZgpqAq7rTFe3Atf0V1AdEYWr_uSo4/edit?gid=0#gid=0"
+    link: ""
   },
   {
-    title: "Polar Plunge",
-    date: "March 22, 2025",
-    time: "8:30 AM - 12:30 PM",
-    location: "2221 Taughannock Park Rd, Trumansburg, NY",
-    description: "Various members will be plunging into the icy waters of Cayuga Lake to raise money for Special Olympics! Come out and support and/or volunteer as a photographer, registration, and more!",
-    category: "Service",
-    link: "https://www.signupgenius.com/go/10C0A4BABAA2DA1FAC61-54988617-ithaca?useFullSite=true#/"
-  },
-  {
-    title: "General Body Meeting",
-    date: "March 24, 2025",
-    time: "6:30 PM - 7:30 PM",
-    location: "Stimson Hall G01",
-    description: "Weekly meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
-    category: "Meeting",
-    link: "https://cglink.me/2ee/r2283966"
-  },
-  {
-    title: "General Body Meeting",
-    date: "April 21, 2025",
-    time: "6:30 PM - 7:30 PM",
-    location: "Stimson Hall G01",
-    description: "Weekly meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
-    category: "Meeting",
-    link: "https://cglink.me/2ee/r2285143"
+    title: "The Sophie Fund Cupcake Contest",
+    date: "October 18, 2025",
+    time: "10:00 AM - 4:00 PM",
+    location: "TBD",
+    description: "Support the annual Sophie Fund Cupcake Contest! Come enjoy, participate, or help volunteer!",
+    category: "Fundraiser",
+    link: ""
   }
 ];
+
 
 export const getBadgeColor = (category) => {
   switch(category) {
