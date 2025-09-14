@@ -92,7 +92,7 @@ export const upcomingEvents = [
     description:
       "New York Speaking is our Fall event, which usually occurs in early November. This event is focused on Circle K’s fellowship tenant. Get ready for a fun-filled weekend of bonding with Circle K members from all over New York state! We will have informational and fun workshops, service, a large fellowship event, and more throughout the weekend!",
     category: "District",
-    link: "",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSc5mmQ86X__wyNWytdu_zxaG4ywHZSW9CVkCrqtbyFGTf_pPw/viewform",
   },
 {
     title: "Circle K International Social",
