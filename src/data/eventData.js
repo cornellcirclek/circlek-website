@@ -5,75 +5,95 @@ export const upcomingEvents = [
     date: "September 15, 2025",
     time: "6:30 PM - 7:30 PM",
     location: "Stimson Hall G01",
-    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    description:
+      "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
     category: "Meeting",
-    link: "https://cglink.me/2ee/r2290301"
+    link: "https://cglink.me/2ee/r2290301",
   },
   {
     title: "GBody #2",
     date: "September 29, 2025",
     time: "6:30 PM - 7:30 PM",
     location: "Stimson Hall G01",
-    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    description:
+      "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
     category: "Meeting",
-    link: ""
+    link: "",
   },
   {
     title: "GBody #3",
     date: "October 13, 2025",
     time: "6:30 PM - 7:30 PM",
     location: "Stimson Hall G01",
-    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    description:
+      "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
     category: "Meeting",
-    link: ""
+    link: "",
   },
   {
     title: "GBody #4",
     date: "October 27, 2025",
     time: "6:30 PM - 7:30 PM",
     location: "Stimson Hall G01",
-    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    description:
+      "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
     category: "Meeting",
-    link: ""
+    link: "",
   },
   {
     title: "GBody #5",
     date: "November 10, 2025",
     time: "6:30 PM - 7:30 PM",
     location: "Stimson Hall G01",
-    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    description:
+      "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
     category: "Meeting",
-    link: ""
+    link: "",
   },
   {
     title: "GBody #6",
     date: "November 24, 2025",
     time: "6:30 PM - 7:30 PM",
     location: "Stimson Hall G01",
-    description: "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
+    description:
+      "Bi-weekly general body meeting to discuss upcoming events, do service and fellowship! New members are welcome!",
     category: "Meeting",
-    link: ""
+    link: "",
   },
 
-  // === Sophie Fund Cupcake Contest ===
-  {
-    title: "The Sophie Fund Cupcake Contest",
-    date: "September 15, 2025",
-    time: "10:00 AM - 4:00 PM",
-    location: "TBD",
-    description: "Support the annual Sophie Fund Cupcake Contest! Come enjoy, participate, or help volunteer!",
-    category: "Fundraiser",
-    link: ""
-  },
+  // === Sophie Fund Cupcake Contest (Service) ===
   {
     title: "The Sophie Fund Cupcake Contest",
     date: "October 18, 2025",
     time: "10:00 AM - 4:00 PM",
     location: "TBD",
-    description: "Support the annual Sophie Fund Cupcake Contest! Come enjoy, participate, or help volunteer!",
-    category: "Fundraiser",
-    link: ""
-  }
+    description:
+      "Support the annual Sophie Fund Cupcake Contest! Come enjoy, participate, or help volunteer!",
+    category: "Service",
+    link: "",
+  },
+
+  // === District Events ===
+  {
+    title: "K-Family Picnic",
+    date: "October 4, 2025",
+    time: "TBD",
+    location: "Thorndon Park, Syracuse",
+    description:
+      "This event will be a great opportunity for everyone to get together and mingle with the different branches of the Kiwanis Family, all while supporting a great cause!",
+    category: "District",
+    link: "",
+  },
+  {
+    title: "New York Speaking",
+    date: "November 7, 2025",
+    time: "All Weekend",
+    location: "TBD",
+    description:
+      "New York Speaking is our Fall event, which usually occurs in early November. This event is focused on Circle K’s fellowship tenant. Get ready for a fun-filled weekend of bonding with Circle K members from all over New York state! We will have informational and fun workshops, service, a large fellowship event, and more throughout the weekend!",
+    category: "District",
+    link: "",
+  },
 ];
 
 
