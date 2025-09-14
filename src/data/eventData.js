@@ -82,7 +82,7 @@ export const upcomingEvents = [
     description:
       "This event will be a great opportunity for everyone to get together and mingle with the different branches of the Kiwanis Family, all while supporting a great cause!",
     category: "District",
-    link: "",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLScpYO6jRvh1bcQgFZwuxUU4cQtksO94-wQjkFwb0qpitkMSyQ/viewform",
   },
   {
     title: "New York Speaking",
@@ -93,6 +93,16 @@ export const upcomingEvents = [
       "New York Speaking is our Fall event, which usually occurs in early November. This event is focused on Circle K’s fellowship tenant. Get ready for a fun-filled weekend of bonding with Circle K members from all over New York state! We will have informational and fun workshops, service, a large fellowship event, and more throughout the weekend!",
     category: "District",
     link: "",
+  },
+{
+    title: "Circle K International Social",
+    date: "September 17, 2025",
+    time: "8:00 PM - 9:00 PM",
+    location: "Zoom",
+    description:
+      "Start strong with a night of fun, fellowship, and goal-setting with members from all over the world. ✨ Learn how to set goals that inspire ✨ Create your own Bingo Card or Vision Board ✨ Connect with CKI friends new + old",
+    category: "District",
+    link: "https://kiwanis-org.zoom.us/meeting/register/JkziGcuOTyaFJ7v5cC3Diw#/registration",
   },
 ];
 
