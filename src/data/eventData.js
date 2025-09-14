@@ -77,7 +77,7 @@ export const upcomingEvents = [
   {
     title: "K-Family Picnic",
     date: "October 4, 2025",
-    time: "TBD",
+    time: "12:00 PM - 5:00 PM",
     location: "Thorndon Park, Syracuse",
     description:
       "This event will be a great opportunity for everyone to get together and mingle with the different branches of the Kiwanis Family, all while supporting a great cause!",
