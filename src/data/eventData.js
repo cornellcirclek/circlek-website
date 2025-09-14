@@ -88,7 +88,7 @@ export const upcomingEvents = [
     title: "New York Speaking",
     date: "November 7, 2025",
     time: "All Weekend",
-    location: "TBD",
+    location: "Lake George",
     description:
       "New York Speaking is our Fall event, which usually occurs in early November. This event is focused on Circle K’s fellowship tenant. Get ready for a fun-filled weekend of bonding with Circle K members from all over New York state! We will have informational and fun workshops, service, a large fellowship event, and more throughout the weekend!",
     category: "District",
