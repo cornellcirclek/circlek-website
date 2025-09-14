@@ -66,7 +66,7 @@ export const upcomingEvents = [
     title: "The Sophie Fund Cupcake Contest",
     date: "October 18, 2025",
     time: "10:00 AM - 4:00 PM",
-    location: "TBD",
+    location: "The Commons",
     description:
       "Support the annual Sophie Fund Cupcake Contest! Come enjoy, participate, or help volunteer!",
     category: "Service",
