@@ -73,6 +73,18 @@ export const upcomingEvents = [
     link: "",
   },
 
+  // === Apple Fest (Service) ===
+  {
+    title: "Apple Harvest Festival",
+    date: "September 27, 2025",
+    time: "11:00 AM - 3:00 PM",
+    location: "The Commons",
+    description:
+      "Help with festival activities such as assisting vendors, cleaning up, setting up, children activities, etc. If you would like to volunteer with our group, list Calyssa Orellana",
+    category: "Service",
+    link: "https://docs.google.com/forms/d/e/1FAIpQLSdPk0FJr81wqVTUuUSLwosEBZSjbM6n6WSetwKY_7oVXE1G0w/viewform",
+  },
+
   // === District Events ===
   {
     title: "K-Family Picnic",
